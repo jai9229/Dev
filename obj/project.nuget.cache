@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bdiPItc4+/ZFkngtjLRFvdVn+ZBjDPXZEtCx/hJEtoHW0Z+9S3uAjggNg6qVthSFdyko+YQi9x8/jIR97cAU1w==",
+  "success": true,
+  "projectFilePath": "D:\\Csharpproject\\Csharpproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jagad\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
